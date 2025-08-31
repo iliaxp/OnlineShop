@@ -13,6 +13,9 @@
 
 ---
 
+<img src="https://github.com/user-attachments/assets/4cbc19e3-01a9-4fa6-980a-dafe386a9532" width="300">
+
+
 ## ✨ Features
 
 ### 🏠 **Core Functionality**
