@@ -9,11 +9,6 @@
 
 *A modern, feature-rich Android e-commerce application built with cutting-edge technologies*
 
-[![GitHub stars](https://img.shields.io/github/stars/mahdizaredev/OnlineShopApplication?style=social)](https://github.com/mahdizaredev/OnlineShopApplication)
-[![GitHub forks](https://img.shields.io/github/forks/mahdizaredev/OnlineShopApplication?style=social)](https://github.com/mahdizaredev/OnlineShopApplication)
-[![GitHub issues](https://img.shields.io/github/issues/mahdizaredev/OnlineShopApplication)](https://github.com/mahdizaredev/OnlineShopApplication/issues)
-[![GitHub license](https://img.shields.io/github/license/mahdizaredev/OnlineShopApplication)](https://github.com/mahdizaredev/OnlineShopApplication/blob/main/LICENSE)
-
 </div>
 
 ---
@@ -59,24 +54,6 @@
 | **Navigation** | Navigation Compose | 2.9.2 |
 | **Minimum SDK** | Android 5.0 (API 21) | - |
 | **Target SDK** | Android 14 (API 36) | - |
-
----
-
-## 📱 Screenshots
-
-<div align="center">
-
-| Splash Screen | Home Screen | Products |
-|:---:|:---:|:---:|
-| ![Splash](https://via.placeholder.com/300x600/3DDC84/FFFFFF?text=Splash+Screen) | ![Home](https://via.placeholder.com/300x600/4285F4/FFFFFF?text=Home+Screen) | ![Products](https://via.placeholder.com/300x600/FF5722/FFFFFF?text=Products) |
-
-| Shopping Cart | User Profile | Payment |
-|:---:|:---:|:---:|
-| ![Cart](https://via.placeholder.com/300x600/4CAF50/FFFFFF?text=Shopping+Cart) | ![Profile](https://via.placeholder.com/300x600/9C27B0/FFFFFF?text=User+Profile) | ![Payment](https://via.placeholder.com/300x600/FF9800/FFFFFF?text=Payment) |
-
-*Screenshots coming soon - Currently using placeholders*
-
-</div>
 
 ---
 
@@ -204,20 +181,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Developer
 
 **Mahdi Zare** - *Lead Android Developer*
-
-- 🌐 [Website](https://mahdizaredev.ir)
-- 📧 [Email](mailto:contact@mahdizaredev.ir)
-- 💼 [LinkedIn](https://linkedin.com/in/mahdizaredev)
-- 🐦 [Twitter](https://twitter.com/mahdizaredev)
-
----
-
-## 🙏 Acknowledgments
-
-- **Google** - For Android and Jetpack Compose
-- **JetBrains** - For Kotlin language
-- **Material Design** - For design guidelines
-- **Open Source Community** - For amazing libraries and tools
 
 ---
 
